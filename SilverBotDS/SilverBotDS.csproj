@@ -177,7 +177,7 @@
     <PackageReference Include="DSharpPlus" Version="4.1.0-nightly-00917" />
     <PackageReference Include="DSharpPlus.CommandsNext" Version="4.1.0-nightly-00917" />
     <PackageReference Include="DSharpPlus.Interactivity" Version="4.1.0-nightly-00917" />
-    <PackageReference Include="Fortnite-API-Wrapper" Version="2.3.0" />
+    <PackageReference Include="Fortnite-API-Wrapper" Version="2.3.1" />
     <PackageReference Include="GiphyDotNet" Version="2.0.0" />
     <PackageReference Include="GitInfo" Version="2.1.2">
       <PrivateAssets>all</PrivateAssets>
